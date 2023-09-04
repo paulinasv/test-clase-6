@@ -1,0 +1,108 @@
+body {
+    width: auto
+}
+/* .navegadorTop {
+    background-color: #28A745;
+
+} */
+/* .homeBtn {
+    color: #ffff;
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+}
+ */
+
+.card-title {
+    color: #212529;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    font-size: 20px;
+ }
+
+ .textPlace {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    font-size: 16px;
+    color: #707070;
+}
+
+ .textAdress {
+    color: #707070;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    font-size: 13px;
+ }
+
+
+.hr-card {
+    color:#707070A0; 
+    width: 0,3pt;
+}
+.card-img-top {
+    object-fit: cover;
+    width: 288px;
+    height: 180px;
+    
+}
+
+.precios {
+    display: flex;
+    align-items: baseline;
+    justify-content: flex-end;
+    gap: 15px;
+}
+
+.price-one {
+    font-family:  'Roboto', sans-serif;
+    font-size: 16px;
+    color: #707070;
+}
+
+.price-two {
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+    color: #28A745;
+}
+
+
+
+/* .row {
+    margin-left: 28px;
+    margin-right: 12px;
+    margin-top: 16px;
+} */
+
+
+
+
+
+.text-center {
+    color: #707070;
+    font-family: 'Roboto', sans-serif;
+    font-size: 12px;
+    
+}
+
+/* .customBackgroundColr {
+    background-color:#28A745
+
+} */
+
+.textoFormulario {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+    font-size: 21pt;
+}
+
+.botonEnviar {
+    background-color: #F8F9FA;
+    font-family:'Roboto', sans-serif;
+    font-size: 16pt;
+    color: #212529;
+}
+
+.textoFooter {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    font-size: 16pt;
+}
